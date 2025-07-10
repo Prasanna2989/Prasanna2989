@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prasanna Mahesh Gunawardana
 
 🔬 Earth Scientist | 💻 Aspiring Data Scientist | 🧪 Software Tester  
-🏠 Based in Melbourne, Australia | 🌏 Permanent Resident
+🏠 Based in Melbourne, Australia | 🌏 Australian Citizen
 
 I'm passionate about using data and software tools to solve real-world problems, from geophysics to customer applications. I have hands-on experience in scientific programming, SQL databases, Java, Python, and testing methodologies.
 
